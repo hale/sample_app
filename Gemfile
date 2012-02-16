@@ -4,7 +4,6 @@ gem 'rails', '3.2.1'
 
 gem 'sqlite3'
 
-
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
@@ -20,6 +19,7 @@ end
 gem 'jquery-rails'
 
 group :test, :development do
+  gem 'webrat'
   gem 'rspec-rails'
   gem 'capybara'
   gem 'guard'
