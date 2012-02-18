@@ -27,7 +27,7 @@ group :test, :development do
   gem 'webrat'
   gem 'rspec-rails'
   gem 'capybara'
-  gem 'guard'
+  #gem 'guard'
   gem 'guard-rspec'
   gem 'growl'
 

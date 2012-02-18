@@ -202,7 +202,6 @@ DEPENDENCIES
   capybara
   coffee-rails (~> 3.2.1)
   growl
-  guard
   guard-rspec
   irbtools-more
   jquery-rails
