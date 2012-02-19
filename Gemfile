@@ -31,6 +31,7 @@ group :test, :development do
   gem 'guard-rspec'
   gem 'growl'
   gem 'annotate', :git => 'git://github.com/jeremyolliver/annotate_models.git', :branch => 'rake_compatibility'
+  gem 'factory_girl_rails'
 
 end
 
