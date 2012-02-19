@@ -6,6 +6,8 @@ gem 'sqlite3'
 
 gem 'irbtools-more', :require => false
 
+gem 'gravatar_image_tag'
+
 
 
 

@@ -78,6 +78,7 @@ GEM
     ffi (1.0.11)
     g (1.6.0)
       ruby_gntp
+    gravatar_image_tag (1.0.0)
     growl (1.0.3)
     guard (1.0.0)
       ffi (>= 0.5.0)
@@ -215,6 +216,7 @@ DEPENDENCIES
   capybara
   coffee-rails (~> 3.2.1)
   factory_girl_rails
+  gravatar_image_tag
   growl
   guard-rspec
   irbtools-more
